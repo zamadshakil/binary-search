@@ -1,4 +1,3 @@
-// Onprintline C++ compiler to run C++ program online
 #include <iostream>
 #include<algorithm>
 
